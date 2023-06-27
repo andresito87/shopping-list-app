@@ -8,4 +8,4 @@ This project was created to focus on working with the DOM, events, state, local 
 
 ## Usage
 
-Link of App deployed on Netlify:
+Link of App deployed on Netlify: https://main--luxury-baklava-f095ce.netlify.app/
